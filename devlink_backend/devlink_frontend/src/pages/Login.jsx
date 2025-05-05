@@ -11,7 +11,7 @@ const Login = () => {
 
   return (
     <div className="flex flex-col items-center justify-center min-h-screen">
-      <h1 className="text-3xl font-bold mb-4">Welcome to DevLink Tracker</h1>
+      <h1 className="text-3xl font-bold mb-4">Welcome to Groovywttp Tracker</h1>
       <button
         onClick={fakeLogin}
         className="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700"
